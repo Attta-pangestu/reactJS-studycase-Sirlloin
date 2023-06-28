@@ -109,8 +109,8 @@ Start the server
 
 ## 🤖 Authors
 
-- [@deradhista13](https://github.com/deradhista13)
-- [@wildanmujahidin](https://github.com/wildanmujahidin)
+- [@atta_pangestu](https://github.com/Attta-pangestu)
+
 
 ### 🛠️ Depedency
 <div style={{ display: "flex", flexWrap: "wrap" }}>
